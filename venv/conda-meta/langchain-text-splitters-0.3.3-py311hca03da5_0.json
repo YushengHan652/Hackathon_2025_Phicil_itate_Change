@@ -1,0 +1,298 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "langchain-core >=0.3.15,<0.4.0"
+  ],
+  "extracted_package_dir": "/Users/seanmacbook/anaconda3/pkgs/langchain-text-splitters-0.3.3-py311hca03da5_0",
+  "files": [
+    "lib/python3.11/site-packages/langchain_text_splitters-0.3.3.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/langchain_text_splitters-0.3.3.dist-info/METADATA",
+    "lib/python3.11/site-packages/langchain_text_splitters-0.3.3.dist-info/RECORD",
+    "lib/python3.11/site-packages/langchain_text_splitters-0.3.3.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/langchain_text_splitters-0.3.3.dist-info/WHEEL",
+    "lib/python3.11/site-packages/langchain_text_splitters-0.3.3.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/langchain_text_splitters/__init__.py",
+    "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/base.cpython-311.pyc",
+    "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/character.cpython-311.pyc",
+    "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/html.cpython-311.pyc",
+    "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/json.cpython-311.pyc",
+    "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/konlpy.cpython-311.pyc",
+    "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/latex.cpython-311.pyc",
+    "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/markdown.cpython-311.pyc",
+    "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/nltk.cpython-311.pyc",
+    "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/python.cpython-311.pyc",
+    "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/sentence_transformers.cpython-311.pyc",
+    "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/spacy.cpython-311.pyc",
+    "lib/python3.11/site-packages/langchain_text_splitters/base.py",
+    "lib/python3.11/site-packages/langchain_text_splitters/character.py",
+    "lib/python3.11/site-packages/langchain_text_splitters/html.py",
+    "lib/python3.11/site-packages/langchain_text_splitters/json.py",
+    "lib/python3.11/site-packages/langchain_text_splitters/konlpy.py",
+    "lib/python3.11/site-packages/langchain_text_splitters/latex.py",
+    "lib/python3.11/site-packages/langchain_text_splitters/markdown.py",
+    "lib/python3.11/site-packages/langchain_text_splitters/nltk.py",
+    "lib/python3.11/site-packages/langchain_text_splitters/py.typed",
+    "lib/python3.11/site-packages/langchain_text_splitters/python.py",
+    "lib/python3.11/site-packages/langchain_text_splitters/sentence_transformers.py",
+    "lib/python3.11/site-packages/langchain_text_splitters/spacy.py",
+    "lib/python3.11/site-packages/langchain_text_splitters/xsl/converting_to_header.xslt",
+    "lib/python3.11/site-packages/langchain_text_splitters/xsl/html_chunks_with_headers.xslt"
+  ],
+  "fn": "langchain-text-splitters-0.3.3-py311hca03da5_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/Users/seanmacbook/anaconda3/pkgs/langchain-text-splitters-0.3.3-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "47634dd4f1d0e25ff1375c46f167f07d",
+  "name": "langchain-text-splitters",
+  "package_tarball_full_path": "/Users/seanmacbook/anaconda3/pkgs/langchain-text-splitters-0.3.3-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters-0.3.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters-0.3.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "c2ea08b053a05af05a4fb144eb26d0cda0d26fc22d02d417f99ab06212e59077",
+        "sha256_in_prefix": "c2ea08b053a05af05a4fb144eb26d0cda0d26fc22d02d417f99ab06212e59077",
+        "size_in_bytes": 2245
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters-0.3.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "6646c25e1484010ae7502a17314b1e45dcc715626fd7e1a7f46aad613a430f43",
+        "sha256_in_prefix": "6646c25e1484010ae7502a17314b1e45dcc715626fd7e1a7f46aad613a430f43",
+        "size_in_bytes": 2784
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters-0.3.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters-0.3.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "ed9f3fdbbb9a1c8fd4640738528c783e906143d639fe6a1d65758cc6d522e0d5",
+        "sha256_in_prefix": "ed9f3fdbbb9a1c8fd4640738528c783e906143d639fe6a1d65758cc6d522e0d5",
+        "size_in_bytes": 88
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters-0.3.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "0b6b18db2f46cf9e7e9c98d1f6ff18207a93ef207044de49ce5c1583893554f1",
+        "sha256_in_prefix": "0b6b18db2f46cf9e7e9c98d1f6ff18207a93ef207044de49ce5c1583893554f1",
+        "size_in_bytes": 155
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "bc6e28d25c84ce92ebbabe391c62ac1ba61aa87f14af9faee255e4f1f3f94de1",
+        "sha256_in_prefix": "bc6e28d25c84ce92ebbabe391c62ac1ba61aa87f14af9faee255e4f1f3f94de1",
+        "size_in_bytes": 2159
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "52caabc92f992dab4b835f9e61855fb78471ac124f2b62f86bcfa828c1586b31",
+        "sha256_in_prefix": "52caabc92f992dab4b835f9e61855fb78471ac124f2b62f86bcfa828c1586b31",
+        "size_in_bytes": 2355
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/base.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e44b9340f7bacf5a0ba519c4777176ba1a17161e0c1582a576d31379543f1856",
+        "sha256_in_prefix": "e44b9340f7bacf5a0ba519c4777176ba1a17161e0c1582a576d31379543f1856",
+        "size_in_bytes": 15983
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/character.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "debff8c6b68437646e7496831bc10dfd39056b28c4cae296d0429fdd822106e8",
+        "sha256_in_prefix": "debff8c6b68437646e7496831bc10dfd39056b28c4cae296d0429fdd822106e8",
+        "size_in_bytes": 13533
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/html.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "99bf8595bb4b6bb881fd5f063011ff893efd5d4c36b7ab180f1c163d830026fa",
+        "sha256_in_prefix": "99bf8595bb4b6bb881fd5f063011ff893efd5d4c36b7ab180f1c163d830026fa",
+        "size_in_bytes": 17074
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/json.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ab07be3919283febcf8d6563275ade516261d2bd14b45a5aba22210e367b59bc",
+        "sha256_in_prefix": "ab07be3919283febcf8d6563275ade516261d2bd14b45a5aba22210e367b59bc",
+        "size_in_bytes": 8417
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/konlpy.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "401e6b1a82a556ccc75024d7c5f79b86fc403a5c93237c4ad3552123ed937d64",
+        "sha256_in_prefix": "401e6b1a82a556ccc75024d7c5f79b86fc403a5c93237c4ad3552123ed937d64",
+        "size_in_bytes": 2033
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/latex.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5cf82917964a19563c95619bea0da1cb83afc7e67e5f9b3b7bb8e4fe38752511",
+        "sha256_in_prefix": "5cf82917964a19563c95619bea0da1cb83afc7e67e5f9b3b7bb8e4fe38752511",
+        "size_in_bytes": 1341
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/markdown.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7efbd6652fcd6238b890907f0855ae473487edd848e0a69beb6d34704e848def",
+        "sha256_in_prefix": "7efbd6652fcd6238b890907f0855ae473487edd848e0a69beb6d34704e848def",
+        "size_in_bytes": 19114
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/nltk.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "90e67329f53976565553bb008986bcb6fefd3b9e5222801c3c7b50439474e58e",
+        "sha256_in_prefix": "90e67329f53976565553bb008986bcb6fefd3b9e5222801c3c7b50439474e58e",
+        "size_in_bytes": 1985
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/python.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c8e81d23b97b8943028bf8c9213e9790bbb49876c9f826c0bdb57c0dfd028f09",
+        "sha256_in_prefix": "c8e81d23b97b8943028bf8c9213e9790bbb49876c9f826c0bdb57c0dfd028f09",
+        "size_in_bytes": 1340
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/sentence_transformers.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3e10bf5e5e90261babf406a8a190c3eb321de31dfffa840bf4242bdeff240d94",
+        "sha256_in_prefix": "3e10bf5e5e90261babf406a8a190c3eb321de31dfffa840bf4242bdeff240d94",
+        "size_in_bytes": 5528
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/__pycache__/spacy.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c247c2b801b22c5dc449ec1b1d07d972862c3ffc938afdae0c323705d97ca77d",
+        "sha256_in_prefix": "c247c2b801b22c5dc449ec1b1d07d972862c3ffc938afdae0c323705d97ca77d",
+        "size_in_bytes": 3410
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/base.py",
+        "path_type": "hardlink",
+        "sha256": "f567e093de2e90a7324e4e34dac37965cdbd929d6ad4e424528239773ffbd2c1",
+        "sha256_in_prefix": "f567e093de2e90a7324e4e34dac37965cdbd929d6ad4e424528239773ffbd2c1",
+        "size_in_bytes": 12155
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/character.py",
+        "path_type": "hardlink",
+        "sha256": "8ce661eb32d1c7cd412e6f8cbd3d91f27787d10d227ba95f9bd525cc4007967e",
+        "sha256_in_prefix": "8ce661eb32d1c7cd412e6f8cbd3d91f27787d10d227ba95f9bd525cc4007967e",
+        "size_in_bytes": 23723
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/html.py",
+        "path_type": "hardlink",
+        "sha256": "9c661c06bf0898569cc142b9cc4af10a98db9550dfae2d9d59146881e7fc4c2d",
+        "sha256_in_prefix": "9c661c06bf0898569cc142b9cc4af10a98db9550dfae2d9d59146881e7fc4c2d",
+        "size_in_bytes": 12993
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/json.py",
+        "path_type": "hardlink",
+        "sha256": "99702bb1252c1ff9023d952f513c4d1c9b32ea405395c6fee49c9b6bc2c0a3ec",
+        "sha256_in_prefix": "99702bb1252c1ff9023d952f513c4d1c9b32ea405395c6fee49c9b6bc2c0a3ec",
+        "size_in_bytes": 5895
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/konlpy.py",
+        "path_type": "hardlink",
+        "sha256": "e81036a06ca137d397d9da34033514cba6fcd24f6b4ebde047eebed38f8a3038",
+        "sha256_in_prefix": "e81036a06ca137d397d9da34033514cba6fcd24f6b4ebde047eebed38f8a3038",
+        "size_in_bytes": 985
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/latex.py",
+        "path_type": "hardlink",
+        "sha256": "ed645e514ed8a5b9a1cabeacef350f3361400a932e6c154ebd8c8b424b4842de",
+        "sha256_in_prefix": "ed645e514ed8a5b9a1cabeacef350f3361400a932e6c154ebd8c8b424b4842de",
+        "size_in_bytes": 546
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/markdown.py",
+        "path_type": "hardlink",
+        "sha256": "476ae6fdd3c91ec6b95c442ea075c7a55a2217d0ef07dcf666f389b7ba621cf5",
+        "sha256_in_prefix": "476ae6fdd3c91ec6b95c442ea075c7a55a2217d0ef07dcf666f389b7ba621cf5",
+        "size_in_bytes": 16887
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/nltk.py",
+        "path_type": "hardlink",
+        "sha256": "817f7330dec6d27629b57f5d72db5b2fe24b13ee7322919518bc611de802334b",
+        "sha256_in_prefix": "817f7330dec6d27629b57f5d72db5b2fe24b13ee7322919518bc611de802334b",
+        "size_in_bytes": 1042
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/python.py",
+        "path_type": "hardlink",
+        "sha256": "274d8200acedc8437af40e7060d8512f6870f3f496052837dfe324b230e64c79",
+        "sha256_in_prefix": "274d8200acedc8437af40e7060d8512f6870f3f496052837dfe324b230e64c79",
+        "size_in_bytes": 539
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/sentence_transformers.py",
+        "path_type": "hardlink",
+        "sha256": "8d1e1b6355506134399b6f461f8f678f18ea4c114b7e0ecd31d16c6b46f90cc4",
+        "sha256_in_prefix": "8d1e1b6355506134399b6f461f8f678f18ea4c114b7e0ecd31d16c6b46f90cc4",
+        "size_in_bytes": 3786
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/spacy.py",
+        "path_type": "hardlink",
+        "sha256": "897eb495d8374e6ceda6201c77cf28851ff1512c87411714da714483c17ed5de",
+        "sha256_in_prefix": "897eb495d8374e6ceda6201c77cf28851ff1512c87411714da714483c17ed5de",
+        "size_in_bytes": 1941
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/xsl/converting_to_header.xslt",
+        "path_type": "hardlink",
+        "sha256": "59eb0daa2e1fa3677d08fbf76d9751b13a0b258135d8cacc645bf67b036f59f5",
+        "sha256_in_prefix": "59eb0daa2e1fa3677d08fbf76d9751b13a0b258135d8cacc645bf67b036f59f5",
+        "size_in_bytes": 1073
+      },
+      {
+        "_path": "lib/python3.11/site-packages/langchain_text_splitters/xsl/html_chunks_with_headers.xslt",
+        "path_type": "hardlink",
+        "sha256": "b62f6c4ffcd6a9941fd1a69e5f9cd3ead7c74f50ae5290150afce8656bad134a",
+        "sha256_in_prefix": "b62f6c4ffcd6a9941fd1a69e5f9cd3ead7c74f50ae5290150afce8656bad134a",
+        "size_in_bytes": 6033
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "74b16e82a83d41596dc3aaf3bd4432c8db1c37b4815a94ae41f2b57f78eda2e6",
+  "size": 55404,
+  "subdir": "osx-arm64",
+  "timestamp": 1734548119000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/langchain-text-splitters-0.3.3-py311hca03da5_0.conda",
+  "version": "0.3.3"
+}
