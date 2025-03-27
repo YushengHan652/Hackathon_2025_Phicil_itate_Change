@@ -1,0 +1,105 @@
+{
+  "build": "py311hf0e4da2_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/seanmacbook/anaconda3/pkgs/jiter-0.6.1-py311hf0e4da2_0",
+  "files": [
+    "lib/python3.11/site-packages/jiter-0.6.1.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/jiter-0.6.1.dist-info/METADATA",
+    "lib/python3.11/site-packages/jiter-0.6.1.dist-info/RECORD",
+    "lib/python3.11/site-packages/jiter-0.6.1.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/jiter-0.6.1.dist-info/WHEEL",
+    "lib/python3.11/site-packages/jiter-0.6.1.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/jiter/__init__.py",
+    "lib/python3.11/site-packages/jiter/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/jiter/jiter.cpython-311-darwin.so"
+  ],
+  "fn": "jiter-0.6.1-py311hf0e4da2_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/Users/seanmacbook/anaconda3/pkgs/jiter-0.6.1-py311hf0e4da2_0",
+    "type": 1
+  },
+  "md5": "ba40e5b4e0af0fe8febe11d4e7944644",
+  "name": "jiter",
+  "package_tarball_full_path": "/Users/seanmacbook/anaconda3/pkgs/jiter-0.6.1-py311hf0e4da2_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/jiter-0.6.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/jiter-0.6.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "698ec7b4b66dcba5e60480e8296830640669746e8484fb808dd48b8079faaba0",
+        "sha256_in_prefix": "698ec7b4b66dcba5e60480e8296830640669746e8484fb808dd48b8079faaba0",
+        "size_in_bytes": 8078
+      },
+      {
+        "_path": "lib/python3.11/site-packages/jiter-0.6.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "bda193de0dce19df5ae7c6fc9e9986cd2079b5768b068189a40db630a893c248",
+        "sha256_in_prefix": "bda193de0dce19df5ae7c6fc9e9986cd2079b5768b068189a40db630a893c248",
+        "size_in_bytes": 683
+      },
+      {
+        "_path": "lib/python3.11/site-packages/jiter-0.6.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/jiter-0.6.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "543c2b3d0b730ee7df104e66e721cac269a3a4367f3bcbaa7b136b8e3c38ede8",
+        "sha256_in_prefix": "543c2b3d0b730ee7df104e66e721cac269a3a4367f3bcbaa7b136b8e3c38ede8",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "lib/python3.11/site-packages/jiter-0.6.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "10e9ed8578d246f9c3838575084b6cfefd2097ef06480359df2580aa6fcc3105",
+        "sha256_in_prefix": "10e9ed8578d246f9c3838575084b6cfefd2097ef06480359df2580aa6fcc3105",
+        "size_in_bytes": 136
+      },
+      {
+        "_path": "lib/python3.11/site-packages/jiter/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "169f4790e8b18986034a20bff34be6889fec0a80864fc380878f3296d9b494fd",
+        "sha256_in_prefix": "169f4790e8b18986034a20bff34be6889fec0a80864fc380878f3296d9b494fd",
+        "size_in_bytes": 103
+      },
+      {
+        "_path": "lib/python3.11/site-packages/jiter/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f9ba62080320697a5b831b0540f7c35c6d4dfc35f96c3424dc0bc119b8e1af59",
+        "sha256_in_prefix": "f9ba62080320697a5b831b0540f7c35c6d4dfc35f96c3424dc0bc119b8e1af59",
+        "size_in_bytes": 315
+      },
+      {
+        "_path": "lib/python3.11/site-packages/jiter/jiter.cpython-311-darwin.so",
+        "path_type": "hardlink",
+        "sha256": "e0c6174a11f44a234b92fbb3f99ebc926df43b976a0dd84e9d4b044465c8842b",
+        "sha256_in_prefix": "e0c6174a11f44a234b92fbb3f99ebc926df43b976a0dd84e9d4b044465c8842b",
+        "size_in_bytes": 791536
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6c73c57a12b7a8fa2b2ca4abc7cae0ef1a4ace4414183f5e49a6b8429d8c07ae",
+  "size": 292996,
+  "subdir": "osx-arm64",
+  "timestamp": 1729809181000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/jiter-0.6.1-py311hf0e4da2_0.conda",
+  "version": "0.6.1"
+}

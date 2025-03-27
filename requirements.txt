@@ -1,0 +1,5 @@
+python=3.11.8
+beautifulsoup4
+openai
+langchain
+pydantic

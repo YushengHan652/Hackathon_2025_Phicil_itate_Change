@@ -1,0 +1,5 @@
+#!/Users/seanmacbook/GitHub/Hackathon_2025_Phicil_itate_Change/.venv/bin/python3.11
+import sys
+from lib2to3.main import main
+
+sys.exit(main("lib2to3.fixes"))
